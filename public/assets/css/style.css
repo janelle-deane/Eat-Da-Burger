@@ -20,6 +20,10 @@ li {
   margin: 5px;
   background: orange;
 }
+button {
+  border-radius: 15px;
+  padding: 5px
+}
 
 form {
   display: inline-block;
