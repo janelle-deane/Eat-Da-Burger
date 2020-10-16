@@ -25,7 +25,7 @@
 
    Usage Information 
 
-   Usage: go to the following link : ….Type a burger you would like to add into the form field, select if you would like to eat it immediately or if you would like to order it. From there you can devour that burger, order a burger again or delete a burger from the list. 
+   Usage: [Go to the following link:](https://enigmatic-reaches-91776.herokuapp.com/.) Type a burger you would like to add into the form field, select if you would like to eat it immediately or if you would like to order it. From there you can devour that burger, order a burger again or delete a burger from the list. 
 
 
  
