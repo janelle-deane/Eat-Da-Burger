@@ -23,6 +23,6 @@ connection.connect(function(err) {
   }
   console.log("connected as id " + connection.threadId);
 });
-connection.connect();
+// connection.connect();
 // Export connection for our ORM to use.
 module.exports = connection;
